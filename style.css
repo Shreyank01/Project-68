@@ -1,0 +1,51 @@
+body{
+    text-align: center;
+}
+html{
+    scroll-behavior: smooth;
+}
+marquee {
+    background-color:green;
+    color:white;
+    font-size:30px;
+}
+#welcome{
+    background:linear-gradient( #0008ff 0%,#8000ff 100%)
+    
+}
+#nav-ul {
+    color:aliceblue;
+}
+h3{
+    color:white;
+}
+h1 {
+    font-family: Bubbler One;
+    font-weight:bold;
+    font-size: 40px;
+    color:white;
+}
+#contact iframe{
+    width:100%;
+} 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
